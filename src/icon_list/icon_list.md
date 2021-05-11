@@ -1,4 +1,4 @@
-People
+# People :smile:
 
 
 | Icon | Code | Icon | Code | Icon | Code |
@@ -68,7 +68,7 @@ People
 | :rage2: | `:rage2:` | :rage3: | `:rage3:` | :rage4: | `:rage4:` |
 | :suspect: | `:suspect:` | :trollface: | `:trollface:` | 
 
-Nature
+# Nature :seedling:	
 
 
 | Icon | Code | Icon | Code | Icon | Code |
@@ -112,7 +112,7 @@ Nature
 | :earth_americas: | `:earth_americas:` | :earth_asia: | `:earth_asia:` | :volcano: | `:volcano:` |
 | :milky_way: | `:milky_way:` | :partly_sunny: | `:partly_sunny:` | :octocat: | `:octocat:` |
 
-Objects
+# Objects :computer:
 
 | Icon | Code | Icon | Code | Icon | Code |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@ Objects
 | :sweet_potato: | `:sweet_potato:` | :eggplant: | `:eggplant:` | :tomato: | `:tomato:` |
 | :corn: | `:corn:` |
 
-Places
+# Places :tent:
 
 | Icon | Code | Icon | Code | Icon | Code |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@ Places
 | :ru: | `:ru:` | :gb: | `:gb:` | :uk: | `:uk:` |
 | :de: | `:de:` |
 
-Symbols
+#Symbols :repeat:
 
 | Icon | Code | Icon | Code | Icon | Code |
 |---|---|---|---|---|---|
