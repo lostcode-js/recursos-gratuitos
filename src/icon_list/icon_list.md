@@ -1,8 +1,10 @@
 People
 
 
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` | :relaxed: `:relaxed:` |
-|---|---|---|---|
+| Icon | Code | Icon | Code | Icon | Code |
+|---|---|---|---|---|---|
+| :bowtie: | `:bowtie:` | :smile: | `:smile:` | :laughing: | `:laughing:` |
+| :relaxed: | `:relaxed:` |
 | :blush: `:blush:` | :smiley: `:smiley:` |  :kissing_heart: `:kissing_heart:` | :heart_eyes: `:heart_eyes:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` | :smirk: `:smirk:` | 
 | :satisfied: `:satisfied:` | :grin: `:grin:` | :wink: `:wink:` |
