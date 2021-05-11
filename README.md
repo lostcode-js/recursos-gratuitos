@@ -9,7 +9,7 @@
 :  Template de um README para seus projetos :frog:
 </p>
  <a href="https://github.com/DanielSoaress/recursos-gratuitos/blob/main/src/README-template/readme-template-perfil.md">• Readme Template Perfil</a>
-:  Template de um README para seu Perfil :frog:
+:  Template de um README para seu Perfil :bookmark:
 </p>
 
 
