@@ -18,4 +18,4 @@ Descrição do projeto
 - Desafio03
 - Desafio04
 
-Feito com ♥ by Daniel Soares :wave:
+Feito com ♥ por Autor :wave:
